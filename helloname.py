@@ -1,6 +1,6 @@
 import pip
-pip.main(["install", "openpyxl"]). # I added this in current file here because when I deployed the app to streamlit, it has error warning 
-                                   # saying that the openpyxl needs to be installed where I made this app originally with pycharm. 
+pip.main(["install", "openpyxl"]) # I added this in current file here because when I deployed the app to streamlit, it has error warning 
+                                  # saying that the openpyxl needs to be installed where I made this app originally with pycharm. 
 
 
 import pickle
