@@ -1,3 +1,6 @@
+import pip
+pip.main(["install", "openpyxl"])
+
 
 import pickle
 from pathlib import Path
